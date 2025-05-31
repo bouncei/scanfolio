@@ -22,9 +22,9 @@ ScanFolio empowers businesses and professionals to create a concise and engaging
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components:** [Shadcn/ui](https://ui.shadcn.com/)
 - **Backend Logic:** Next.js API Routes
-- **Database:** Supabase
-- **Authentication:** Supabase Auth
-- **Deployment:** Vercel
+- **Database:** [Supabase](https://supabase.com/docs)
+- **Authentication:** [Supabase Auth](https://supabase.com/docs/guides/auth)
+- **Deployment:** [Firebase](https://firebase.google.com/docs?gad_source=1&gad_campaignid=12299739053&gbraid=0AAAAADpUDOjlIHhkk0oZg1skOopOOS3wf&gclid=Cj0KCQjw0erBBhDTARIsAKO8iqTDjJ9eoDCL1xYzOoB9Z78yGpu7UnxwOM8wTWD-n-jMbA9bNut9xAoaAqcXEALw_wcB&gclsrc=aw.ds)
 
 ---
 
@@ -194,6 +194,10 @@ This project is licensed under the [Your Chosen License - e.g., MIT License] - s
 
 ## 📧 Contact
 
-Joshua Inyang (Bouncey) - bouncei.tech
+[Joshua Inyang (Bouncey)](https://bouncei.tech/)
+
+[joshuainyang255@gmail.com](mailto:joshuainyang255@gmail.com)
+
+Portfolio: [bouncei.tech](https://bouncei.tech/)
 
 Project Link: [https://github.com/bouncei/scanfolio](https://github.com/bouncei/scanfolio)
